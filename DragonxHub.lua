@@ -4861,7 +4861,6 @@ function CheckQuest()
             CFrameMon = CFrame.new(147.52256774902344, 24.793832778930664, -12775.3583984375)
             SPAWNPOINT = "Chocolate"
         elseif MyLevel >= 2400 or _G.Select_Mob_Farm == "Candy Pirates [Lv. 2400]" then
-
             Mon = "Candy Pirates [Lv. 2400]"
             NameQuest = "CandyQuest1"
             LevelQuest = 1
@@ -4870,9 +4869,6 @@ function CheckQuest()
             CFrameMon = CFrame.new(-1342.770263671875, 16.94266700744629, -14402.1083984375)
             SPAWNPOINT = "Sea of sweet"
             elseif MyLevel >= 2425 or _G.Select_Mob_Farm == "Snow Demons [Lv. 2425]" then
-
-
-
             Mon = "Snow Demons [Lv. 2425]"
             NameQuest = "CandyQuest2"
             LevelQuest = 2
